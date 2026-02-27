@@ -1,0 +1,118 @@
+index,query,question_type,true_label,prediction,correct
+0,Is the value of Favorable 38 in 2015?,0,Yes,Yes,1
+1,How many values are below 40 in Unfavorable graph?,0,6,7,0
+2,In which year the value was 51?,0,2014,2014,1
+3,What is the sum favourable  value in the year 2014 and 2015?,0,95,92,0
+4,In which year the Mexican governments campaign against drugs traffickers is making 47 percent progress?,0,2012,2012,1
+5,"What is the sum of making progress ,losing ground and same in the year 2011?",0,99,99,1
+6,How many intercepting point(s) is/are there?,0,1,1,1
+7,Which year has the most divergent opinions about Brazil's economy?,0,2015,2015,1
+8,Which line contains smaller values across all years?,0,Unfavorable,Unfavorable,1
+9,Deduct the most unfavorable view from the most favorable view?,0,49,49,1
+10,What's the rightmost value dark brown graph?,0,47,47,1
+11,How many values of dark brown graph exceed 40?,0,5,5,1
+12,Is the largest value of green bar 30?,0,No,No,1
+13,Is the sum of highest and lowest value of orange graph greater than 60?,0,Yes,Yes,1
+14,What is the color of graph whose lowest value is 35?,0,Green,Green,1
+15,What's the median value of green graph?,0,75,75,1
+16,What's the rightmost value of orange graph?,0,51,51,1
+17,Is the sum of leftmost value of green and smallest value of orange graph greater than 100?,0,Yes,Yes,1
+18,What is the first data in orange line?,0,41,41,1
+19,Which year the green line cut the orange line from top to down?,0,2014,2014,1
+20,What is the data in Jul 2015 ( all two data)?,0,"[63, 26]","Approve: 63, Disapprove: 26",0
+21,What is the average of Approve data?,0,58,58,1
+22,What's the color of the graph with the 15 as the lowest value?,0,Blue,blue,1
+23,What's the the average of all the values below 30?,0,19,19,1
+24,What's the rightmost value of orange graph?,0,73,73,1
+25,What's the median value of orange graph?,0,73,73,1
+26,What's the percentage of respondents who was upset on changing reactions to a gay child in 2015?,0,0.39,39%,0
+27,In which year the difference between Upset and Not upset graph is maximum?,0,1985,1985,1
+28,What's the U.S. Hispanic population in 2000 (in millions)?,0,35.7,35.7,1
+29,In how many years the U.S. Hispanic population was below 30 millions?,0,3,3,1
+30,In which year the value of orange graph is 36?,0,2013,2013,1
+31,What's the median value of green graph from 2011 to 2015?,0,61,51,0
+32,What's the rightmost value of dark green graph?,0,15,15,1
+33,How many values in light green graph are equal?,0,2,2,1
+34,What's the percentage of Indians who have no confidence in Obama to do the right thing regarding world affairs in 2014?,0,15,15,1
+35,What's the average of all the values in 2015?,0,33,33,1
+36,What's the leftmost value of green graph?,0,44,44,1
+37,Is the sum of two lowest value of green graph greater than higest value of orange graph?,0,Yes,Yes,1
+38,What's the lowest value of graph in 2015?,0,8,8,1
+39,What's the product of all the values in 2015?,0,19800,19800,1
+40,What's the value of Bad graph in 2007?,0,56,56,1
+41,Is the median of first three points of orange graph smaller than largest value of green graph?,0,No,No,1
+42,What does the green line of data represent?,0,Obama,Confidence in Obama,0
+43,What percentage does the data point for Obama have in 2009?,0,0.37,37,0
+44,"Based on the graph, do people have more confidence or no confidence?",0,Confidence,More confidence,0
+45,What is the difference in data points in 2015?,0,79,79,1
+46,What does the blue line represent?,0,Dem/Lean Dem,The blue line represents Dem/Lean Dem.,0
+47,When do blue lines reach their peak?,0,2018,2018,1
+48,What's the lowest value of red graph?,0,70,70,1
+49,What's the ratio of Rep/Lean Rep in 2019 and Dem/Lean Dem in 2018?,0,3.5,3.5,1
+50,What's the percentage of Republican/Lean Rep in 2018 who say American allies in Europe should increase their spending on national defense?,0,59,59%,0
+51,What's the median value of red graph?,0,59,59,1
+52,What is the percentage of U.S.-born eligible voters in 2016?,0,62,62%,0
+53,What is the median value of U.S.-born graph?,0,63,63,1
+54,What percentage of Americans/Germans say U.S should cooperate more with Germany in 2019?,0,69,"Americans: 69%
+Germans: Data for Germans saying ""U.S. should cooperate more with Germany"" is not provided in the chart.",0
+55,In which year the difference between green and blue graph lowest?,0,2017,2017,1
+56,Which line has bigger changes in values?,0,East Germany,West Germany,0
+57,Add the medians of the opinions from the two countries?,0,156,"To find the medians of the opinions from the two countries, we first list the opinion percentages for each country across the years presented and then find the median for each set.
+
+**East Germany:**
+The percentages for East Germany are 59 (1991), 79 (2009), and 81 (2019).
+Ordering these values: [59, 79, 81].
+The median for East Germany is the middle value, which is 79.
+
+**West Germany:**
+The percentages for West Germany are 51 (1991), 77 (2009), and 88 (2019).
+Ordering these values: [51, 77, 88].
+The median for West Germany is the middle value, which is 77.
+
+Now, add the medians of the opinions from the two countries:
+79 (East Germany median) + 77 (West Germany median) = 156.
+
+156",0
+58,Are the lines diverging?,0,Yes,Yes,1
+59,What is the second least difference in the two voters' opinions?,0,29,29,1
+60,What's the value of blue graph in 2014?,0,19,19,1
+61,In which year the values of blue and green graph are same?,0,2014,2014,1
+62,What is the difference between the blue and green data points in 2018?,0,9,9,1
+63,Wjhat is the average of the biggest dip of the bad and good sentiment line?,0,35.5,23.5,0
+64,What the peak values among all data  points?,0,89,"The peak value for Substantive laws is 89.
+The peak value for Ceremonial laws is 37%.",0
+65,Are the percentages of substantive laws passed greater than that of ceremonial by at least 37 across all years?,0,No,No,1
+66,When does the good rating reach the peak?,0,2013,2013,1
+67,Which year witnessed the largest gap between two ratings?,0,2015,2015 and 2018,0
+68,When does the good rating reach the peak?,0,44362,June 2015,0
+69,In which year the gap between the positive and negative ratings is the largest?,0,2018,2018,1
+70,What's the rightmost value of green graph?,0,64,64,1
+71,"Add two rightmost values of blue graph, multiply it by 3, what's the result?",0,390,(67 + 63) * 3 = 130 * 3 = 390,0
+72,What's the leftmost value of confidence graph?,0,41,41,1
+73,Is the sum of first three value of blue graph greater than 200?,0,No,No,1
+74,How many colored graph are used to represent the data?,0,2,2,1
+75,What's the ratio(A:B) of largest value of green graph and smallest value of blue graph?,0,1.634722222,39:14,0
+76,What is the rightmost value of red bar?,0,88,88,1
+77,What is the average of highest value of blue graph and rightmost value of red graph?,0,91.5,91.5,1
+78,What is the colour of Support Rep candidate in the chart?,0,Red,Red,1
+79,What is the sum value of Support Dem candidate and Support Rep candidates in the year Oct 14?,0,131,131,1
+80,What is the value of Support Rep candidate in the year Sept 2014?,0,0.52,52,0
+81,Is the value of voters who says they are more enthusiastic than usual about voting in Support Rep candidate more then Support Dem candidates?,0,Yes,No,0
+82,What's the blue graph represent?,0,NET Excellent/ good,NET Excellent/good,0
+83,Is the product of two smallest value of orange graph greater than 1000?,0,Yes,Yes,1
+84,Is the color of Yes graph green?,0,Yes,Yes,1
+85,Is the difference between blue and green graph in 2008 the maxiumum among years?,0,No,No,1
+86,What's the color of graph whose value is 40 in 2017?,0,Red,Red,1
+87,What's the sum of all the values below 20 in red graph?,0,34,34,1
+88,What's the color of graph whose rightmost value is 19?,0,Green,Green,1
+89,Is the sum of two leftmost value of blue graph greater than 90?,0,No,No,1
+90,What's the color of the graph whose lowest value is 31?,0,Blue,Blue,1
+91,In which time period the difference between blue and orange graph minimum?,0,Jan 2018,Jan. 2018,0
+92,What's the highest value of blue graph?,0,0.88,88,0
+93,Is the average of highest and lowest value of green bar greater than 80?,0,No,No,1
+94,What's the color of graph whose rightmost value is 83?,0,Green,green,1
+95,Is ratio of peak value of green and blue graph 84:83?,0,Yes,Yes.,0
+96,Does the blue line has maximum value of 88%?,0,Yes,Yes,1
+97,Is the sum of two smallest value of blue graph greater than smallest value of green graph?,0,Yes,Yes,1
+98,In which year the value of green graph is lowest?,0,2014,2014,1
+99,Is the sum of all the values in 2017 smaller than sum of all the values in 2005?,0,No,No,1
