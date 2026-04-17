@@ -25,7 +25,7 @@ index,query,question_type,true_label,prediction,correct
 23,What's the the average of all the values below 30?,0,19,19,1
 24,What's the rightmost value of orange graph?,0,73,73,1
 25,What's the median value of orange graph?,0,73,73,1
-26,What's the percentage of respondents who was upset on changing reactions to a gay child in 2015?,0,0.39,39%,1
+26,What's the percentage of respondents who was upset on changing reactions to a gay child in 2015?,0,0.39,39%,0
 27,In which year the difference between Upset and Not upset graph is maximum?,0,1985,1985,1
 28,What's the U.S. Hispanic population in 2000 (in millions)?,0,35.7,35.7,1
 29,In how many years the U.S. Hispanic population was below 30 millions?,0,3,3,1
@@ -42,7 +42,7 @@ index,query,question_type,true_label,prediction,correct
 40,What's the value of Bad graph in 2007?,0,56,56,1
 41,Is the median of first three points of orange graph smaller than largest value of green graph?,0,No,No,1
 42,What does the green line of data represent?,0,Obama,Obama,1
-43,What percentage does the data point for Obama have in 2009?,0,0.37,37,1
+43,What percentage does the data point for Obama have in 2009?,0,0.37,37,0
 44,"Based on the graph, do people have more confidence or no confidence?",0,Confidence,confidence,1
 45,What is the difference in data points in 2015?,0,79,79,1
 46,What does the blue line represent?,0,Dem/Lean Dem,Dem/Lean Dem,1
@@ -93,7 +93,7 @@ Rounding to two decimal places as in the example (0.25 for 25%), we get 2.79.
 77,What is the average of highest value of blue graph and rightmost value of red graph?,0,91.5,91.5,1
 78,What is the colour of Support Rep candidate in the chart?,0,Red,red,1
 79,What is the sum value of Support Dem candidate and Support Rep candidates in the year Oct 14?,0,131,131,1
-80,What is the value of Support Rep candidate in the year Sept 2014?,0,0.52,52,1
+80,What is the value of Support Rep candidate in the year Sept 2014?,0,0.52,52,0
 81,Is the value of voters who says they are more enthusiastic than usual about voting in Support Rep candidate more then Support Dem candidates?,0,Yes,Yes,1
 83,Is the product of two smallest value of orange graph greater than 1000?,0,Yes,Yes,1
 84,Is the color of Yes graph green?,0,Yes,Yes,1
@@ -104,7 +104,7 @@ Rounding to two decimal places as in the example (0.25 for 25%), we get 2.79.
 89,Is the sum of two leftmost value of blue graph greater than 90?,0,No,No,1
 90,What's the color of the graph whose lowest value is 31?,0,Blue,blue,1
 91,In which time period the difference between blue and orange graph minimum?,0,Jan 2018,Jan. 2018,0
-92,What's the highest value of blue graph?,0,0.88,88,1
+92,What's the highest value of blue graph?,0,0.88,88,0
 93,Is the average of highest and lowest value of green bar greater than 80?,0,No,No,1
 94,What's the color of graph whose rightmost value is 83?,0,Green,green,1
 95,Is ratio of peak value of green and blue graph 84:83?,0,Yes,Yes,1
@@ -210,7 +210,7 @@ Finally, add the smallest and largest differences:
 130,What is the orange line chart denotes?,0,Confidence in U.S. President,Confidence in U.S. President,1
 131,What is the average of the last 3 data value in the green line?,0,65.67,66,0
 132,What's the rightmost value of Online graph?,0,43,43%,1
-133,What's the average of all the values of Television graph?,0,53.5,0.535,1
+133,What's the average of all the values of Television graph?,0,53.5,0.535,0
 134,Is the value of green graph 67 in 2017?,0,No,No,1
 135,What's the ratio of difference between green and orange graph in 2015 and 2017?,0,0.0513,"1.  **Calculate the difference between the green and orange graph in 2015:**
     Orange (2015) = 43
@@ -238,7 +238,7 @@ Finally, add the smallest and largest differences:
 144,What was the U.S. Hispanic population in 2010 (in millions)?,0,50.8,50.8,1
 145,Is the sum of two least population greater than population in 1990?,0,Yes,Yes,1
 146,In which year the population is lowest?,0,1970,1970,1
-147,What's the average population from 2000 to 2016?,0,48,48.0,1
+147,What's the average population from 2000 to 2016?,0,48,48.0,0
 148,What is the Favorable number for the year 2014?,0,63,63,1
 149,What is the difference between Unfavorable and the Favorable in the year 2017?,0,35,35,1
 150,What is the Confidence value in the year 2017?,0,5,5,1
@@ -316,9 +316,9 @@ When asked ""Which year"" for an event that occurs between two discrete year mar
 218,What is the overlapping value of the two lines?,0,50,50,1
 221,Which montht recorded the most optimistic sentiment of covid-19 outbreak?,0,Jun,Jun,1
 222,What does the darker line represent?,0,The number of registered voters who say: 'It really matters who wins the presidential election',It really matters who wins the presidential election,0
-223,What is the average for 2020?,0,0.495,49.5,1
+223,What is the average for 2020?,0,0.495,49.5,0
 224,Which nation has higher data?,0,China,China,1
-225,What is the average of 2015?,0,0.4,40,1
+225,What is the average of 2015?,0,0.4,40,0
 226,When does the positive view reach the peak?,0,2013,2013,1
 227,When does the gap between two views reach the largest?,0,2013,2013,1
 228,What does the green line represent?,0,EU 5-country median,EU 5-country median,1
@@ -338,7 +338,7 @@ When asked ""Which year"" for an event that occurs between two discrete year mar
 243,In which year the difference between orange and green graph is maximum?,0,2002,2002,1
 244,How many colored lines are present?,0,2,2,1
 245,What is the average of orange graph from 2012 to 2014?,0,37,37,1
-246,What percent feels that we should rely on democratic government in the year 2002?,0,0.57,57,1
+246,What percent feels that we should rely on democratic government in the year 2002?,0,0.57,57,0
 247,What is the difference in value in terms of relying on Democratic government and strong leader in the year 2015?,0,20,20,1
 248,Is the value that have favorable views for US in 2013 more then 2015?,0,No,No,1
 250,Is the color of graph orange whose value is 9 in 2009?,0,Yes,Yes,1
@@ -373,10 +373,10 @@ When asked ""Which year"" for an event that occurs between two discrete year mar
 279,"After analysing the given graph, can you say Obama's overall job approval rate declined from 2009 to 2014?",0,Yes,Yes,1
 280,What is the leftmost value in the lower line as shown in the graph?,0,31,31,1
 281,"In which time period, difference between approval and disapproval rate is 1%?",0,44240,Feb 13,0
-282,What is the percentage of people who says it is important to control gun ownership in 2014?,0,0.46,46,1
+282,What is the percentage of people who says it is important to control gun ownership in 2014?,0,0.46,46,0
 283,In which year the gap is maximum between the people who says it is important to control gun ownership and those who says it is important to protect the rights americans to own guns?,0,1999,1999,1
-284,What is the percentage of americans who thinks news organizations understands people like them?,0,0.37,37%,1
-285,How much more percent of americans who thinks news organizations don't understand people like them than those who thinks news organizations understands people like them?,0,0.22,22%,1
+284,What is the percentage of americans who thinks news organizations understands people like them?,0,0.37,37%,0
+285,How much more percent of americans who thinks news organizations don't understand people like them than those who thinks news organizations understands people like them?,0,0.22,22%,0
 286,What's the percentage of favorable view of U.S. in 2014?,0,19,19,1
 287,Is the median of orange graph from 2002 to 2004 greater than the median of green graph from 2012 to 2014?,0,Yes,Yes,1
 288,What's the value of Developing economies graph in 2014?,0,25,25,1
@@ -446,9 +446,9 @@ When asked ""Which year"" for an event that occurs between two discrete year mar
 346,What does the green color represent?,0,Satisfied,Satisfied,1
 347,How many satisfied data points are below 60%?,0,8,8,1
 348,What is the value of lower graph in 1969?,0,12,12,1
-349,What is the difference in the rise percentage of people saying marijuana should be legalized from 1969 to 2013?,0,0.4,40,1
-350,What is the percentage of people saying 'No' as per the graph shown?,0,0.14,14%,1
-351,How much more percent of people saying 'yes' than 'no'?,0,0.29,29%,1
+349,What is the difference in the rise percentage of people saying marijuana should be legalized from 1969 to 2013?,0,0.4,40,0
+350,What is the percentage of people saying 'No' as per the graph shown?,0,0.14,14%,0
+351,How much more percent of people saying 'yes' than 'no'?,0,0.29,29%,0
 352,What is the highest value of disapproval of Obama's Job rating?,0,53,55,0
 353,What is the ratio of disapproval v/s approval of Obama's job in Dec. 2013?,0,1.088889,1.09,0
 354,What is lowest value of blue line?,0,50,50,1
@@ -483,8 +483,8 @@ The final answer is $\boxed{2011}$",0
 366,How many colors are used to represent the graph?,0,2,3,0
 367,What's the ratio(A:B) of yellow data points in first two years?,0,0.042361111,1,0
 369,What's the ratio of smallest and largest segment?,0,0.047916667,0.111,0
-370,What is the largest value in the graph?,0,0.43,43%,1
-371,What is the difference in the value of 'A great deal' and 'Not much'?,0,0.09,9%,1
+370,What is the largest value in the graph?,0,0.43,43%,0
+371,What is the difference in the value of 'A great deal' and 'Not much'?,0,0.09,9%,0
 372,Is the value of blue line always less than other two lines?,0,Yes,Yes,1
 373,What's the average of all green data points above 40?,0,48.75,48.75,1
 374,What's the value of leftmost blue data point?,0,56,56,1
@@ -585,7 +585,7 @@ We need to find the point where these two lines cross.
 436,Which indicator represents the middle line?,0,Given a lot of thought to the election,Given a lot of thought to the election,1
 437,What is the difference in the leftmost and rightmost value of the upper line in the graph?,0,5,5,1
 438,What does the yellow part indicates in the chart?,0,Nothing at all,Nothing at all,1
-439,What is the difference in the value of 'A little' and 'A lot'?,0,0.17,17,1
+439,What is the difference in the value of 'A little' and 'A lot'?,0,0.17,17,0
 440,What is the least value who oppose same sex marriage gains more acceptance?,0,48,48,1
 441,How many times the value show 37 in the favour segment?,0,2,2,1
 442,How many times the value show 35 in the Democratic leaders?,0,3,3,1
@@ -602,15 +602,15 @@ We need to find the point where these two lines cross.
 453,How many orange data points have 15 value?,0,2,2,1
 454,What's the percentage value gray segment?,0,38,38%,1
 455,What's the sum two largest segment?,0,77,77%,1
-456,What is the percentage of U.S. who say scientists should take an active role in policy debates?,0,0.6,60%,1
-457,What is the difference in percentage of U.S. people who thinks scientists should take active part in policy debates and those thinks they should focus on establishing sound scientific facts?,0,0.21,21%,1
-458,What is the total percentage of all registered democrats?,0,0.303,30.3%,1
-459,How much more percent of total registered Republicans than total registered democrats?,0,0.015,1.5%,1
+456,What is the percentage of U.S. who say scientists should take an active role in policy debates?,0,0.6,60%,0
+457,What is the difference in percentage of U.S. people who thinks scientists should take active part in policy debates and those thinks they should focus on establishing sound scientific facts?,0,0.21,21%,0
+458,What is the total percentage of all registered democrats?,0,0.303,30.3%,0
+459,How much more percent of total registered Republicans than total registered democrats?,0,0.015,1.5%,0
 460,How many segments are there?,0,3,3,1
 461,The percent of people supporting new civil rights law exceeds that of not supporting by how much?,0,27,17%,0
 462,"In the pie chart, what is A great deal percentage?",0,22,22%,1
 463,What is the ratio between Not too much/not at all vs some?,0,0.9744,0.974,0
-465,What is the upper bound of the largest pie?,0,0.84,84%,1
+465,What is the upper bound of the largest pie?,0,0.84,84%,0
 466,What is the % of Authorized non EU-EFTA citiznes living in Europe?,0,80-84,80%-84%,1
 467,What is the color of the largest pie?,0,Green,Green,1
 468,What is the ratio between the blue and the gray segments?,0,1.542361111,1.028,0
@@ -619,9 +619,9 @@ We need to find the point where these two lines cross.
 471,Is the value of largest segment greater than sum of other two?,0,Yes,Yes,1
 472,Is there only three segments in the pie chart?,0,Yes,Yes,1
 473,Is the percentage distribution of Other workers greater than sum of Self-employed and Hired by self-employed workers?,0,Yes,Yes,1
-474,How much percent of americans say online classes provides equal educational value?,0,0.3,30%,1
+474,How much percent of americans say online classes provides equal educational value?,0,0.3,30%,0
 475,Is the share of americans more who thinks online classes provides equal educational value than who opposes it?,0,No,No,1
-476,How much percent of U.S. gun deaths in 2017 were murder?,0,0.37,37,1
+476,How much percent of U.S. gun deaths in 2017 were murder?,0,0.37,37,0
 477,What is the ratio of U.S. gun deaths murder v/s suicide in 2017?,0,0.6167,0.617,0
 478,Which share got the biggest value?,0,Naturalized citizens,Naturalized citizens,1
 479,What's the add up percentage of dark brown and gray share?,0,68,68%,1
@@ -629,7 +629,7 @@ We need to find the point where these two lines cross.
 481,What's the difference between the percentage of biggest face and smallest face?,0,61,61%,1
 482,What's the percentage answering no?,0,78,78%,1
 483,What's ratio between answering yes and no?,0,0.309722222,0.269,0
-484,What's the percentage of people using Latinx?,0,0.03,3%,1
+484,What's the percentage of people using Latinx?,0,0.03,3%,0
 485,What's the ratio of people use and do not use Latinx?,0,0.138888889,0.03125,0
 486,What is the color of Stay about the same in the Pie graph?,0,gray,gray,1
 488,Which color shows 8 percent in the Pie segment?,0,Blue,Blue,1
@@ -640,12 +640,12 @@ We need to find the point where these two lines cross.
 493,What's the median value of all the segments?,0,14,2,0
 494,What is the population of unauthorised immigrants under foreign-born estimated in 2017?,0,10.5 ,10.5 million,0
 495,What is the total population of naturalised citizens and lawful permanent residents in US Foregin born population?,0,33,33.0 million,0
-496,What is the percentage of Lawful Immigrants under U.S. Foreign-born population?,0,0.77,77%,1
+496,What is the percentage of Lawful Immigrants under U.S. Foreign-born population?,0,0.77,77%,0
 497,"As per the graph, is the share of Temporary lawful residents lowest?",0,Yes,Yes,1
 498,Which option has the smallest slice?,0,Racial background,Racial background,1
-499,"The three smallest slices of the graph, add up to what?",0,0.43,43%,1
+499,"The three smallest slices of the graph, add up to what?",0,0.43,43%,0
 500,What option is the smallest slice of this graph?,0,Use Latinx,Use Latinx,1
-501,The two smallest slices add up to what?,0,0.23,23%,1
+501,The two smallest slices add up to what?,0,0.23,23%,0
 502,Is the color of smallest bar gray?,0,Yes,Yes,1
 503,Is the difference between smallest and largest segment greater than yellow segment?,0,Yes,Yes,1
 504,What's the percentage value of Somewhat successful segment?,0,60,60%,1
@@ -700,15 +700,15 @@ We need to find the point where these two lines cross.
 553,Is the difference between two largest segment Even?,0,Yes,Yes,1
 554,Is the color of largest segment yellow?,0,Yes,Yes,1
 555,What's the ratio of largest segment and sum of two smallest segment (A:B)?,0,0.626388889,15:2,0
-556,How many agrees with Obama that it's a Good idea?,0,0.42,42%,1
+556,How many agrees with Obama that it's a Good idea?,0,0.42,42%,0
 557,What the difference in value between Good idea and Bad idea?,0,7,7%,1
 558,What color shows 5% in the Pie graph?,0,gray,Grey,0
 559,What is the difference in value between Same and sum of More and Less?,0,12,12%,1
 560,What is the color of DK?,0,gray,cream,0
 561,What is the difference in value in Decreasing and Dk in the Pie chart?,0,1,1%,1
 562,What does Grey represent in the Pie graph?,0,"No, would not","No, would not",1
-563,What percent of value is not shown in the PIE GRAPH?,0,0.04,4%,1
-564,What is the value of largest segment?,0,0.53,53%,1
+563,What percent of value is not shown in the PIE GRAPH?,0,0.04,4%,0
+564,What is the value of largest segment?,0,0.53,53%,0
 565,In how many segment is the Pie chart What divided?,0,3,3,1
 566,What color shows 8 % in the Pie graph?,0,gray,Light Gray,0
 567,Is the value of No more then sum of Yes and Dk?,0,Yes,Yes,1
@@ -736,7 +736,7 @@ We need to find the point where these two lines cross.
 589,What is the sum of largest section and the smallest section?,0,66,66%,1
 590,What is the percentage of Approved of work permit and deportation relief?,0,553197,0.8607,0
 591,Is the Denial values the least value in the Pie chart?,0,Yes,Yes,1
-592,What is the percentage value of Job related in Pie chart?,0,0.42,42%,1
+592,What is the percentage value of Job related in Pie chart?,0,0.42,42%,0
 593,"Is the sum of Other and Job related more then sum of Housing,Retired and Household/family?",0,No,No,1
 594,What is the value of Very unfavourable in Pie graph?,0,53,53%,1
 595,"Is the sum of Some what unfavorable ,Favorable and Dont know more then Very unfavorable?",0,No,No,1
@@ -747,13 +747,13 @@ We need to find the point where these two lines cross.
 600,What is the percentage of the Don't know?,0,33,33%,1
 601,What is the sum of the % of the favorable and the  Don't know?,0,41,41%,1
 602,What percent of opinions was 6%?,0,Recovering strongly,6%,0
-603,What is the total percentage the recovering strongly and the refused?,0,0.08,8%,1
+603,What is the total percentage the recovering strongly and the refused?,0,0.08,8%,0
 604,What percentage of  people says it is a bad thing?,0,61,61%,1
 605,What is the percentage difference between the people who says it is bad and those who says it is good?,0,27,27%,1
 606,Which section had highest percentage?,0,Orthodox,Orthodox,1
 607,How much percentage had catholic more than protestant?,0,20,20%,1
-608,How many percentage British now want to remain in EU?,0,0.5,50%,1
-609,How many percentage people want to leave EU?,0,0.41,41%,1
+608,How many percentage British now want to remain in EU?,0,0.5,50%,0
+609,How many percentage people want to leave EU?,0,0.41,41%,0
 610,What percent does Mostly agree represent?,0,33,33%,1
 611,"Is the sum of Mostly disagree ,Completely disagree,Don't know is more then the sum of Mostly agree and Completely agree?",0,No,No,1
 612,What does 8 percent represent?,0,Don't know,Don't know,1
@@ -782,8 +782,8 @@ According to the instructions, if the result is not a percentage (like 27%), it 
 622,What's the color of second largest segment?,0,Green,green,1
 623,What's the ratio of largest segment and second smallest segment?,0,0.250694444,6,0
 624,"Is the value of ""Don't know"" segment 7%?",0,Yes,Yes,1
-625,What's the product of smallest segment and second smallest segment?,0,196,0.0196,1
-626,What percentage of Indians are dissatisfied with the country's direction?,0,0.7,70%,1
+625,What's the product of smallest segment and second smallest segment?,0,196,0.0196,0
+626,What percentage of Indians are dissatisfied with the country's direction?,0,0.7,70%,0
 627,What is the ratio between the percentage of Indians who are dissatisfied versus the ones who are satisfied with the country's directon?,0,2.414,2.41,0
 628,What percentage of people see Pakistan as greatest threat to India?,0,47,47%,1
 629,Is the sum of the greatest threat to India more than the sum of the next two biggest threats to India?,0,Yes,Yes,1
@@ -803,7 +803,7 @@ According to the instructions, if the result is not a percentage (like 27%), it 
 643,What is the difference of value in Not satisfied and Don't know?,0,20,20%,1
 644,What does Blue color  shows in the pie graph?,0,Small/not a problem,Small/not a problem,1
 645,Is the sum of Don't know and Small /not a probelm more then Very /moderately big problem?,0,No,No,1
-646,Find the  percentage whose value occupied most in the pie chart?,0,0.76,76%,1
+646,Find the  percentage whose value occupied most in the pie chart?,0,0.76,76%,0
 648,What's the color of biggest section of the chart?,0,Blue,Blue,1
 649,What's the difference in the value of blue and grey section of the chart?,0,59,59%,1
 650,What's the color of the 2nd smallest section of the chart?,0,gray,grey,0
@@ -828,9 +828,9 @@ According to the instructions, if the result is not a percentage (like 27%), it 
 669,How many segment values exceed 30%?,0,2,2,1
 670,Is the color of largest segment Blue?,0,No,No,1
 671,"What's the ratio of two largest segment (A:B, A<B)?",0,0.678472222,0.941,0
-672,What is the value of the grey pie?,0,0.17,17%,1
-673,What is the value of the red pie?,0,0.83,83%,1
-674,What is the percentage of Not much control?,0,0.37,37%,1
+672,What is the value of the grey pie?,0,0.17,17%,0
+673,What is the value of the red pie?,0,0.83,83%,0
+674,What is the percentage of Not much control?,0,0.37,37%,0
 675,What is the ratio between Refused and A lot of control?,0,0.33,0.33,1
 676,What is the value of dark blue segment?,0,31,31%,1
 677,Is the sum of dark blue and light blue segment value is equal to the sum of white and grey segment value?,0,No,No,1
@@ -854,14 +854,14 @@ According to the instructions, if the result is not a percentage (like 27%), it 
 695,What's the average of all the three biggest value of the chart?,0,33,33%,1
 696,Which branch of military constitutes maximum value?,0,Army,Army,1
 697,Is the total percentage of Army and Coast Guard more than total percentage of Navy and Air Force?,0,No,No,1
-698,What is the percentage of Army Reserve?,0,0.24,24%,1
+698,What is the percentage of Army Reserve?,0,0.24,24%,0
 699,"Is the total percentage of Coast Guard Reserve, Marine Corps Reserve and Navy Reserve equals to the percentage of Air National Guard?",0,Yes,Yes,1
 700,What percent shows Never married in the Pie chart?,0,27,27%,1
 701,What is the difference of value in Widowed and Separated?,0,7,7%,1
 702,What value does the Grey Represent in the Pie chart?,0,1,1%,1
 703,What is the sum of Federal govt.should require employers to provide paid leave and Employers should be able to decide for themselves?,0,99,99%,1
 704,What's the percentage value of gray segment?,0,75,75%,1
-705,What is the value of the largest segment?,0,0.75,75%,1
+705,What is the value of the largest segment?,0,0.75,75%,0
 706,Is the percetage value of largest segment 47?,0,Yes,Yes,1
 707,What's the median of three largest segment?,0,30,30%,1
 708,What's the number of refugee admissions by Muslim?,0,2778,2778,1
@@ -884,7 +884,7 @@ According to the instructions, if the result is not a percentage (like 27%), it 
 725,What's the sum of all the segments whose value is below 30?,0,60,60%,1
 726,Is the percentage value of smallest segment 7?,0,Yes,Yes,1
 727,"Is the sum of two smallest segment greater than ""Consistently supported Clinton"" segment?",0,No,No,1
-728,What's the percentage of U.S. adults who have no answer?,0,0.01,1%,1
+728,What's the percentage of U.S. adults who have no answer?,0,0.01,1%,0
 729,"Take sum of smallest and largest segment, divide it by second largest segment, what's the result (round to one decimal place)?",0,1.5,1.5,1
 730,What's the percentage value of second smallest segment?,0,8,8%,1
 731,What's the ratio of second smallest segment and largest segment?,0,0.092361111,0.154,0
@@ -892,7 +892,7 @@ According to the instructions, if the result is not a percentage (like 27%), it 
 733,"Divide largest segment by smallest segment, is the result greater than smallest segment?",0,No,No,1
 734,What's the color of smallest segment?,0,gray,gray,1
 735,Is the sum of smallest two segment is equal to largest segment?,0,No,No,1
-736,What's the value of largest segment?,0,0.77,77%,1
+736,What's the value of largest segment?,0,0.77,77%,0
 737,"Is the ""Don't know segment"" value is half the value of the ""Bad for the U.S."" Segment value?",0,No,No,1
 738,What's the percentage of people choosing don't know?,0,6,6%,1
 739,What's the percentage of people choosing an option other than don't know?,0,94,94%,1
@@ -909,13 +909,13 @@ According to the instructions, if the result is not a percentage (like 27%), it 
 750,What's the color of the smallest segment of the graph?,0,gray,gray,1
 751,Is biggest segment greater than two times of smallest segment?,0,Yes,Yes,1
 752,What's the most popular opinion in the chart?,0,Should unlock iPhone,51%,0
-753,What's the percentage of people don't choose should unlock iPhone?,0,0.49,49%,1
+753,What's the percentage of people don't choose should unlock iPhone?,0,0.49,49%,0
 754,What's the percentage of people choosing not subjected to additional scrutiny?,0,61,61%,1
 755,What is the color of the second largest pie?,0,Brown,dark brown,0
 756,What's the percentage value of Should express segment?,0,50,50%,1
 757,"Take average of two largest segment, divide it by smallest segment, what's the result?",0,12,12,1
 758,Is the color of largest segment light blue?,0,Yes,Yes,1
-759,"Take difference between two largest segment, multiply it by smallest segment, what's the result?",0,16,0.0016,1
+759,"Take difference between two largest segment, multiply it by smallest segment, what's the result?",0,16,0.0016,0
 760,Is the color of largest segment blue?,0,No,No,1
 761,"Take sum of light and dark blue segment, multiply it by 2, is the result greater than largest segment?",0,Yes,Yes,1
 762,What's the percentage of all teens who have never been in a romantic relationship?,0,64,64%,1
@@ -948,7 +948,7 @@ According to the instructions, if the result is not a percentage (like 27%), it 
 789,What is the sum of two lowest value in the Pie chart?,0,43,43%,1
 790,Which leader is analysed in the chart?,0,Obama,Obama,1
 791,How many times disapprove greater than Approve?,0,2.185,2.19,0
-792,What is the percentage in Major problem?,0,0.1,10%,1
+792,What is the percentage in Major problem?,0,0.1,10%,0
 793,What is the ratio between Minor problem and Not a problem?,0,1.26315,1.263,0
 794,Is the value of Very satisfied segment 3%?,0,Yes,Yes,1
 795,"Take sum of two smallest segment, multiply it by 3, is the result equal to third largest segment?",0,Yes,Yes,1
@@ -965,14 +965,14 @@ According to the instructions, if the result is not a percentage (like 27%), it 
 806,What's the most popular opinion?,0,Very big problem,Very big problem,1
 807,What's the percentage of people thinking it's a big problem?,0,82,82%,1
 808,What's the most popular opinion?,0,Needs major changes,45%,0
-809,What's the percentage of people thinking it needs change or rebuilt?,0,0.66,66%,1
+809,What's the percentage of people thinking it needs change or rebuilt?,0,0.66,66%,0
 810,What's the percentage of respondents are not sure if local TV Newsrooms budgest grew in 2012?,0,7,7%,1
 811,What is the median of three smallest segment?,0,38.5,7%,0
 812,What's the percentage of mexicans who support using army to fight drug traffickers?,0,85,85%,1
-813,What is the largest value?,0,0.85,85%,1
+813,What is the largest value?,0,0.85,85%,0
 814,Is largest segment name Easier?,0,Yes,Yes,1
 815,What's the ratio of largest and smallest segment?,0,2.77777778,2.78,0
-816,What's the percentage of adults who say that abortion should be legal in most cases?,0,0.33,33%,1
+816,What's the percentage of adults who say that abortion should be legal in most cases?,0,0.33,33%,0
 817,Is the median of all segments greater than sum of two smallest segment?,0,No,No,1
 818,What does Grey represent in the Pie graph?,0,DK,DK,1
 819,What is the difference between the highest and lowest value.?,0,72,72%,1
@@ -1006,8 +1006,8 @@ According to the instructions, if the result is not a percentage (like 27%), it 
 847,What's the toatal sum value of largest two segment?,0,79,79%,1
 848,What's the value of Like it segment?,0,29,29%,1
 849,What's the difference in the value of largest segment and smallest segment?,0,27,27%,1
-850,What is the percentage of eligible for citizenship?,0,0.43,43%,1
-851,What is the percentage of 'be eligible for citizenship'?,0,0.43,43%,1
+850,What is the percentage of eligible for citizenship?,0,0.43,43%,0
+851,What is the percentage of 'be eligible for citizenship'?,0,0.43,43%,0
 852,What is the percentage value of don't know?,0,0.02,6%,0
 853,What is the color of the largest pie?,0,Dark yellow,Gold,0
 854,What does 60 percent represent in the Pie chart?,0,Strictly follow the Quran,Strictly follow the Quran,1
@@ -1024,14 +1024,14 @@ According to the instructions, if the result is not a percentage (like 27%), it 
 865,How many times No bigger than DK?,0,30.5,30.5,1
 866,What's the percentage of respondents who approve of government's recovery efforts?,0,37,37%,1
 867,What's the difference between two segments whose value is below 50?,0,33,33%,1
-868,What is the value correspond to yes?,0,0.47,47%,1
+868,What is the value correspond to yes?,0,0.47,47%,0
 869,How many times yes bigger than No?,0,1.34,1.34,1
-870,What is Dissatisfied percentage?,0,0.33,33%,1
+870,What is Dissatisfied percentage?,0,0.33,33%,0
 871,"As per the study, if you ask 500 people, how many will say satisfied?",0,280,280,1
 872,Is there any segment whose value is 20%?,0,No,No,1
 873,What's the ratio of second largest segment and Postive segment?,0,1.4,1.4,1
-874,"What's the percentage value of ""Hurt less"" opinion?",0,0.05,5%,1
-875,What's the sum of median segment and smallest segment?,0,0.43,43%,1
+874,"What's the percentage value of ""Hurt less"" opinion?",0,0.05,5%,0
+875,What's the sum of median segment and smallest segment?,0,0.43,43%,0
 876,What is the percentage value for approve?,0,27,27%,1
 877,What is the percentage difference between approve and disapprove?,0,32,32,1
 878,What is the smallest percentage value for the DK/Ref?,0,13,13%,1
@@ -1042,10 +1042,10 @@ According to the instructions, if the result is not a percentage (like 27%), it 
 883,"Add average and medians of all the segments, is it greater than sum of two largest segment?",0,No,No,1
 884,Is Don't know/Refused smallest segment?,0,Yes,Yes,1
 885,What's the ratio of largest and second smallest segment?,0,2.6,2.6,1
-886,What's the percentage of respondents who would not move to the U.S.?,0,0.61,61%,1
+886,What's the percentage of respondents who would not move to the U.S.?,0,0.61,61%,0
 887,"Divide second smallest segment by smallest segment, what's the result?",0,9,9,1
 888,What does dark color represent?,0,Satisfied,Satisfied,1
-889,What is the average of Dissatisfied and Satisfied?,0,0.49,49%,1
+889,What is the average of Dissatisfied and Satisfied?,0,0.49,49%,0
 890,What does 9 percent show in Pie chart?,0,Don't know,Don't know,1
 891,"IS the sum of Yes challenge Obama and Don't know more then No, do not challenge?",0,No,No,1
 892,What color does the highest value in Pie chart represent?,0,Dark blue,DarkBlue,1
@@ -1064,14 +1064,14 @@ According to the instructions, if the result is not a percentage (like 27%), it 
 905,"Take sum of two smallest segment and difference between two largest segment, divide larger value by smaller value, what's the result?",0,5,5,1
 906,What is the percentage in no opinion?,0,14,14%,1
 907,What is the percentage of other reasons and economic force?,0,"[10, 12]",22%,0
-908,What is the percentage in red segment?,0,0.17,17%,1
+908,What is the percentage in red segment?,0,0.17,17%,0
 909,What are the percentage in democrat and no partisan leaning?,0,"[47, 13]","[47%, 13%]",1
 910,What percentage of Democrats agree with tea party movement?,0,47,Unknown,0
 911,What's the difference between Democrats and Republicans on agreeing with tea party movement?,0,30,17%,0
 912,What's the percentage of children that are born in US?,0,79,79%,1
 913,What is the radio of children between born in US and born abroad?,0,3.7619,3.76,0
 914,What is thecolor of the smallest segment?,0,blue,steel blue,0
-915,What is the difference between the two largest segments?,0,0.096,9.60%,1
+915,What is the difference between the two largest segments?,0,0.096,9.60%,0
 916,What is the color of Don't Know segment?,0,gray,beige,0
 917,What is the difference between the two largest segments?,0,25,25,1
 918,What value does Mostly Bad news shows?,0,31,31,1
@@ -1081,12 +1081,12 @@ According to the instructions, if the result is not a percentage (like 27%), it 
 922,What's the no.1 generation in the chart?,0,Gen Y,Gen Y,1
 923,What's the sum of boomers?,0,35,35%,1
 924,What's the no.1 country/region in the chart?,0,Mexico,Mexico,1
-925,What's the sum of illegal immigrants from Mexico and Asia?,0,0.71,71%,1
+925,What's the sum of illegal immigrants from Mexico and Asia?,0,0.71,71%,0
 926,What is the highest value of the yellow bar?,0,45,45,1
 927,What is the total distribution of favorable and unfavorable Liberal view?,0,60,60,1
 928,What is the lowest value of the green bar?,0,27,27,1
 929,What is the difference between the highest and lowest green bar?,0,52,52,1
-930,What's the percentage of White officers saying that wearing body cameras would make officers more likely to act appropriately?,0,0.46,46,1
+930,What's the percentage of White officers saying that wearing body cameras would make officers more likely to act appropriately?,0,0.46,46,0
 931,What's the occurrences of bar with value 5?,0,3,3,1
 932,What is the color of the bar with value of 31?,0,Dark green,Green,0
 933,What is the sum of the highest and lowest green bar?,0,91,91,1
@@ -1112,7 +1112,7 @@ According to the instructions, if the result is not a percentage (like 27%), it 
 953,What is the average of strong data?,0,31,31,1
 954,What's the value of A lot opinion for Muslims?,0,57,57,1
 955,How many bars have value equal to 27?,0,2,2,1
-956,What's the percentage of U.S. adults who feel overloaded by information in 2016?,0,0.2,20%,1
+956,What's the percentage of U.S. adults who feel overloaded by information in 2016?,0,0.2,20%,0
 957,"Multiply largest gray bar by 2, is the result greater than smallest blue bar?",0,No,No,1
 958,What's the value of first Very well bar from the bottom?,0,41,41,1
 959,Add all the bars whose value exceeds 40?,0,146,386,0
@@ -1125,10 +1125,10 @@ According to the instructions, if the result is not a percentage (like 27%), it 
 966,What color does value 32 shows?,0,Green,Green,1
 967,Scientists understand health effects of GM foods in fairly well more then Climate scientist understand causes of climate change?,0,Yes,True,0
 968,What does the least value represent?,0,Justice Department,Justice Department,1
-969,What is the difference in Military and Judge?,0,0.03,3,1
+969,What is the difference in Military and Judge?,0,0.03,3,0
 970,Is the color of smallest bar green?,0,Yes,Yes,1
 971,Is the median of navy blue bars greater than largest value of light blue bar?,0,Yes,Yes,1
-972,What's the percentage of mothers saying father does more handling household chores?,0,0.04,4,1
+972,What's the percentage of mothers saying father does more handling household chores?,0,0.04,4,0
 973,How many gray bars value exceed 50?,0,1,1,1
 974,What is the highest value in yes?,0,81,81,1
 975,Is the No value in Men more then women?,0,No,No,1
