@@ -1,4 +1,4 @@
-# Charts & Diagrams using Gemini 📊✨  
+# Charts & Diagrams using Gemini  
 > As part of the ***CAP6640 Final Project***
 
 Notebook-based project exploring how Gemini can generate charts and diagrams from natural language prompts. This project focuses on converting unstructured input into structured visual outputs within a lightweight, experimental environment.
